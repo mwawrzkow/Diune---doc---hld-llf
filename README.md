@@ -1,6 +1,5 @@
 # Diune DOC 
-
-
+The Basic tehnical docment with sgestions for code.
 ## Table of contents 
 1. [HLD - High Level Definition](HDL.md)
 2. [LLF - Low Level Feature entities](LLF.md)
@@ -11,3 +10,9 @@
 7. [LLF - Weather system - TBD](TMB.html)
 8. [LLF - Resource System - TBD](TBD.html)
 9. [LLF - UI Campaign system - TBD](TBD.html)
+
+## Contributors
+- Marcin Wawrzków
+- Marcin Bruzda
+- Maciej Rekiel
+
