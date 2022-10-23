@@ -6,10 +6,10 @@ The basic tehnical docment with sugestions for code.
 3. [LLF - province map ](province.md)
 4. [Entities - entity types](entities.md)
 5. [LLF - Diplomats](diplomats.md)
-6.  [LLF - Battle mode](LFF_battle_modew.md)
-7. [LLF - Weather system - TBD](TMB.html)
-8. [LLF - Resource System - TBD](TBD.html)
-9. [LLF - UI Campaign system - TBD](TBD.html)
+6. [LLF - Battle mode](LFF_battle_modew.md)
+7. [LLF - Weather system - TBD](TMB.md)
+8. [LLF - Resource System - TBD](TBD.md)
+9. [LLF - UI Campaign system - TBD](TBD.md)
 
 ## Contributors
 - Marcin Wawrzków
