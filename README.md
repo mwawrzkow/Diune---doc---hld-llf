@@ -1,5 +1,5 @@
 # Diune DOC 
-The Basic tehnical docment with sgestions for code.
+The basic tehnical docment with sugestions for code.
 ## Table of contents 
 1. [HLD - High Level Definition](HDL.md)
 2. [LLF - Low Level Feature entities](LLF.md)
