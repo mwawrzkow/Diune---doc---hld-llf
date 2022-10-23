@@ -16,3 +16,7 @@ We need previously created by desing maps. Maps will be divided into provinces. 
 - Player can build new buildings
 - Player can travel through it
 - Player can create units
+- Defines pool of battle maps
+
+### Tools
+- province map development tool 

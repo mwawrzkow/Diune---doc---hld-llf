@@ -39,7 +39,6 @@ An actor in the battle mode is someone in command of the army, can be player or 
 
 ## Map 
 
-- 
 - has size
 - coordinates
 - has buff and debuff zones -> on hills dmg buff, roads for buffed movement speed
