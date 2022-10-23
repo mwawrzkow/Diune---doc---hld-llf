@@ -15,4 +15,5 @@ The Basic tehnical docment with sgestions for code.
 - Marcin Wawrzków
 - Marcin Bruzda
 - Maciej Rekiel
+- etc.
 
