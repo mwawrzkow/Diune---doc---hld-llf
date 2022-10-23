@@ -1,0 +1,13 @@
+### Entities
+- 3 types (Diplomat, Spy, Assassin)
+- trained at koszary
+- can move same as other
+- levelup system (higher level - higher success chance)
+- assassin kills targets
+- spy checks out entitie inside cities/provincies
+- diplomat can arrange
+    - trades
+    - alliances
+    - gifts
+    - donate/recieve money
+    - donate/recieve entities
